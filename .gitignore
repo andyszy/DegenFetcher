@@ -1,0 +1,7 @@
+.deps
+artifacts
+.DS_Store
+node_modules
+build
+.secret
+.secret-etherscan
