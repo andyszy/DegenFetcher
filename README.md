@@ -20,10 +20,10 @@ DegenFetcher was created for use in [Degen Blues](https://degenblues.xyz/), a dy
 
 The source code for DegenFetcher.sol has been deployed to:
 
+* Ethereum Mainnet:
+  * [0xD32Fb8BF0DecC9A80968E480694Fa60e3E91895C](https://etherscan.io/address/0xd32fb8bf0decc9a80968e480694fa60e3e91895c#code)
 * Rinkeby:
   * [0x92A7Ce844A0f0C4773162fFa1Cd3995FBD567770](https://rinkeby.etherscan.io/address/0x92A7Ce844A0f0C4773162fFa1Cd3995FBD567770#code)
-* Ethereum Mainnet:
-  * Coming soon
 
 For each of the deployed contracts above, you can click on the *Read Contract* tab to test out the functions.
 
