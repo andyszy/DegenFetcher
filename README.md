@@ -27,6 +27,6 @@ The source code for DegenFetcher.sol has been deployed to:
 
 For each of the deployed contracts above, you can click on the *Read Contract* tab to test out the functions.
 
-## Contact
+## Support Contact
 
-Have questions? Need support? Just want to share something cool you're working on? Feel free to get in touch via the [Degen Blues discord server](https://discord.gg/uNRDNVRe9U)
+Have questions? Need support or inspiration? Just want to share something cool you're working on? The best place to connect with other artists doing data driven work is the #workshop channel of the [Degen Blues discord server](https://discord.gg/FBrBgTWYR8)
